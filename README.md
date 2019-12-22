@@ -4,7 +4,7 @@
 
 Tool with neo-pixel lights mounted on an ABB-120 robot.
 
-![](Images/004.png)
+![](Images/004.PNG)
 
 ##### Components
 
@@ -17,47 +17,47 @@ Tool with neo-pixel lights mounted on an ABB-120 robot.
 * Camera set to an exposure time of several seconds
 * A dark room
 
-![](Images/002.png)
+![](Images/002.PNG)
 
 ##### Software
 
 The robotic movement is controlled by a toolpath developed in grasshopper.
 With the use of an Optocoupler, the signal is converted from 24V to 5V for the Arduino. This signal is then translated to the color of the neo-pixel strip.
 
-![](Images/002a.png)
+![](Images/002a.PNG)
 
 ##### Grasshopper
 
-![](Images/011.png)
+![](Images/011.PNG)
 
 
 ##### Arduino
 
-![](Images/003.png)
+![](Images/003.PNG)
 
 ##### Toolpaths used
 
 Barcelona Skyline
-![](Images/005.png)
-![](Images/006.png)
+![](Images/005.PNG)
+![](Images/006.PNG)
 
 Squares
-![](Images/007.png)
-![](Images/008.png)
+![](Images/007.PNG)
+![](Images/008.PNG)
 
 Face
-![](Images/008a.png)
-![](Images/008b.png)
+![](Images/008a.PNG)
+![](Images/008b.PNG)
 
 Wine Glass
-![](Images/009.png)
-![](Images/010.png)
+![](Images/009.PNG)
+![](Images/010.PNG)
 
 ##### Robotic Animation
 
 ![](Images/Robot.gif)
 ![](Images/Animation.gif)
-![](Images/004a.png)
+![](Images/004a.PNG)
 
 
 **Credits**
